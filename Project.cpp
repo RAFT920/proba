@@ -27,6 +27,7 @@ int main()
 	case 10: cout << "Жовтень"; break;
 	case 11: cout << "Листопад"; break;
 	case 12: cout << "Грудень"; break;
+	case 13: cout << "Trolling"; break;
 	default: cout << "Не існує"; break;
 	}
 
