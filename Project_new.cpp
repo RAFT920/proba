@@ -3,7 +3,7 @@
 
 #include <iostream>
 using namespace std;
-
+//просто коментар
 int main()
 {
 
