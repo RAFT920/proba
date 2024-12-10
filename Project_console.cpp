@@ -19,21 +19,7 @@ int main()
             else f_ = false;
     if (f_ == false) cout << "F is not definded \n";
     else cout << "F = " << f;
-    /*int n;
-    cout << "Введіть номер планети Сонячної системи: \n";
-    cin >> n;
-    switch (n)
-    {
-    case 1: cout << "Меркурій"; break;
-    case 2: cout << "Венера"; break;
-    case 3: cout << "Земля"; break;
-    case 4: cout << "Марс"; break;
-    case 5: cout << "Юпітер"; break;
-    case 6: cout << "Сатурн"; break;
-    case 7: cout << "Уран"; break;
-    case 8: cout << "Нептун"; break;
-    default: cout << "Не існує"; break;
-    }*/
+    
     cout << "I learning console(this is easier, that i imagine)";
 }
 
