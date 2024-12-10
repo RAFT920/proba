@@ -34,7 +34,6 @@ int main()
     case 8: cout << "Нептун"; break;
     default: cout << "Не існує"; break;
     }*/
-    cout << "I learning console(this is easier, that i imagine)";
 }
 
 
