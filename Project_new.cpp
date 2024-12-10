@@ -3,8 +3,6 @@
 
 #include <iostream>
 using namespace std;
-//просто коментар
-//ще один просто коментар
 int main()
 {
 
